@@ -34,9 +34,9 @@
 <br />
 ---
 
-<summary>:zap: Github Stats</summary>
+### Github stats.
 
-  <img align="left" alt="mateuszlubianka1993's Github Stats" src="https://github-readme-stats.mateuszlubianka1993.vercel.app/api?username=mateuszlubianka1993&show_icons=true&hide_border=true" />
+[![mateuszlubianka1993's github stats](https://github-readme-stats.vercel.app/api?username=mateuszlubianka1993&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://m-lubianka.netlify.app/
