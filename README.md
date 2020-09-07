@@ -4,10 +4,16 @@
 
 ## I'm a Front End Dev!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a Node.js course!
 - 🌱 I’m currently learning Node.js, Express.js and Mongoose.
 - 🥅 2020 Goals: Work more, code more, learn more :)
 - ⚡ Fun fact: I love to play guitar and watch football.
+
+### Github stats.
+
+[![mateuszlubianka1993's github stats](https://github-readme-stats.vercel.app/api?username=mateuszlubianka1993&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateuszlubianka1993&repo=weather-vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
@@ -33,10 +39,6 @@
 <br />
 <br />
 ---
-
-### Github stats.
-
-[![mateuszlubianka1993's github stats](https://github-readme-stats.vercel.app/api?username=mateuszlubianka1993&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://m-lubianka.netlify.app/
