@@ -36,7 +36,7 @@
 
 ### Github stats.
 
-[![mateuszlubianka1993's github stats](https://github-readme-stats.vercel.app/api?username=mateuszlubianka1993&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![mateuszlubianka1993's github stats](https://github-readme-stats.vercel.app/api?username=mateuszlubianka1993&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://m-lubianka.netlify.app/
