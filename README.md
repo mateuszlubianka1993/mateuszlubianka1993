@@ -13,7 +13,11 @@
 
 [![mateuszlubianka1993's github stats](https://github-readme-stats.vercel.app/api?username=mateuszlubianka1993&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateuszlubianka1993&repo=weather-vue)](https://github.com/anuraghazra/github-readme-stats)
+### Pinned repos
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateuszlubianka1993&repo=weather-vue&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateuszlubianka1993&repo=Tic-tac-toe-js-game&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateuszlubianka1993&repo=books-vue&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
