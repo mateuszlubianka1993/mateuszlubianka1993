@@ -1,11 +1,13 @@
 <br />
 <p align="center">
   <a href="https://m-lubianka.netlify.app/">
-    <img src="./img/portfolio-logo-1.jpg" alt="Logo" width="80" height="80">
+    <img src="/img/portfolio-logo-1.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">mateuszlubianka1993</h3>
 </p>
+
+![My Logo](/img/portfolio-logo-1.jpg)
 
 ### Hi there, I'm Mateusz - aka [mateuszlubianka1993][website] 👋
 
