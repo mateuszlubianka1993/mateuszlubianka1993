@@ -1,3 +1,12 @@
+<br />
+<p align="center">
+  <a href="https://m-lubianka.netlify.app/">
+    <img src="/img/portfolio-logo-1.jpg" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">mateuszlubianka1993</h3>
+</p>
+
 ### Hi there, I'm Mateusz - aka [mateuszlubianka1993][website] 👋
 
 <!-- [![Website](https://img.shields.io/website?label=mateuszlubianka1993.com&style=for-the-badge&url=https%3A%2F%2Fmateuszlubianka1993.com)](https://m-lubianka.netlify.app/) -->
@@ -12,10 +21,6 @@
 ### Github stats.
 
 [![mateuszlubianka1993's github stats](https://github-readme-stats.vercel.app/api?username=mateuszlubianka1993&theme=great-gatsby&show_icons=true)](https://github.com/mateuszlubianka1993)
-
-### Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszlubianka1993&theme=great-gatsby&show_icons=true)](https://github.com/mateuszlubianka1993)
 
 ### Pinned repos
 
@@ -47,6 +52,10 @@
 
 <br />
 <br />
+
+### Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszlubianka1993&theme=great-gatsby&show_icons=true)](https://github.com/mateuszlubianka1993)
 ---
 
 
