@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://m-lubianka.netlify.app/">
-    <img src="/img/portfolio-logo-1.jpg" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/mateuszlubianka1993/mateuszlubianka1993/master/img/portfolio-logo-1.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">mateuszlubianka1993</h3>
