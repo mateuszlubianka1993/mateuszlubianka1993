@@ -9,7 +9,7 @@
 
 ### Hi there, I'm Mateusz - aka [mateuszlubianka1993][website] 👋
 
-<!-- [![Website](https://img.shields.io/website?label=mateuszlubianka1993.com&style=for-the-badge&url=https%3A%2F%2Fmateuszlubianka1993.com)](https://m-lubianka.netlify.app/) -->
+[![Website](https://img.shields.io/website?label=mateuszlubianka1993.com&style=for-the-badge&url=https://m-lubianka.netlify.app/)](https://m-lubianka.netlify.app/)
 
 ## I'm a Front End Dev!
 
