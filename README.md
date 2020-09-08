@@ -7,8 +7,6 @@
   <h3 align="center">mateuszlubianka1993</h3>
 </p>
 
-![My Logo](/img/portfolio-logo-1.jpg)
-
 ### Hi there, I'm Mateusz - aka [mateuszlubianka1993][website] 👋
 
 <!-- [![Website](https://img.shields.io/website?label=mateuszlubianka1993.com&style=for-the-badge&url=https%3A%2F%2Fmateuszlubianka1993.com)](https://m-lubianka.netlify.app/) -->
