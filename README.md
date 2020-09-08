@@ -11,13 +11,18 @@
 
 ### Github stats.
 
-[![mateuszlubianka1993's github stats](https://github-readme-stats.vercel.app/api?username=mateuszlubianka1993&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![mateuszlubianka1993's github stats](https://github-readme-stats.vercel.app/api?username=mateuszlubianka1993&theme=great-gatsby&show_icons=true)](https://github.com/mateuszlubianka1993)
+
+### Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszlubianka1993&theme=great-gatsby&show_icons=true)](https://github.com/mateuszlubianka1993)
 
 ### Pinned repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateuszlubianka1993&repo=weather-vue&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateuszlubianka1993&repo=Tic-tac-toe-js-game&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateuszlubianka1993&repo=books-vue&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateuszlubianka1993&repo=weather-vue&theme=great-gatsby&show_icons=true)](https://github.com/mateuszlubianka1993/weather-vue)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateuszlubianka1993&repo=Tic-tac-toe-js-game&theme=great-gatsby&show_icons=true)](https://github.com/mateuszlubianka1993/Tic-tac-toe-js-game)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateuszlubianka1993&repo=books-vue&theme=great-gatsby&show_icons=true)](https://github.com/mateuszlubianka1993/books-vue)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mateuszlubianka1993&repo=shopping-list-js-v2&theme=great-gatsby&show_icons=true)](https://github.com/mateuszlubianka1993/shopping-list-js-v2)
 
 ### Connect with me:
 
@@ -48,19 +53,3 @@
 [website]: https://m-lubianka.netlify.app/
 [twitter]: https://twitter.com/Xiedzu
 [linkedin]: https://www.linkedin.com/in/mateuszlubianka/
-
-
-<!--
-**mateuszlubianka1993/mateuszlubianka1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
